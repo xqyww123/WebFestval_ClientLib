@@ -22,3 +22,7 @@
 
 WebFestLib/
 port/
+
+*.swo
+*.swp
+*~
